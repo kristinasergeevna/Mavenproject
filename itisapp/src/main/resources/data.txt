@@ -1,0 +1,2 @@
+user=admin
+pswd=12345

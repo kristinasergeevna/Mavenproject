@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: org.kzn.itis.gr404.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.05 sec <<< FAILURE!
+testApp(org.kzn.itis.gr404.AppTest)  Time elapsed: 0.03 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: Should be false
+	at junit.framework.Assert.fail(Assert.java:47)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at org.kzn.itis.gr404.AppTest.testApp(AppTest.java:36)
+

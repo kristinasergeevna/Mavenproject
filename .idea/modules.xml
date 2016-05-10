@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/itis-spring/itis-spring.iml" filepath="$PROJECT_DIR$/itis-spring/itis-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itisapp/itisapp.iml" filepath="$PROJECT_DIR$/itisapp/itisapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-properties.iml" filepath="$PROJECT_DIR$/test-properties.iml" />
+    </modules>
+  </component>
+</project>
